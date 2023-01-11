@@ -1,5 +1,5 @@
 baseURL: 'https://www.lukasweissenhorn.com'
-languageCode: en-us
+languageCode: en-US
 title: Lukas Weissenhorn
 theme: hugo-profile
 outputs:
@@ -23,11 +23,6 @@ Menus:
       title: Blog posts
       url: /blogs
       weight: 1
-#   - identifier: gallery
-#     name: Gallery
-#     title: Blog posts
-#     url: /gallery
-#     weight: 2
 params:
   title: Lukas Weissenhorn
   description: Personal page of Lukas Weissenhorn
@@ -254,4 +249,3 @@ params:
       instagram: 'https://www.instagram.com/weissenhorn.lukas/'
   listPages:
     disableFeaturedImage: false
-
