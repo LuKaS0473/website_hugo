@@ -105,7 +105,7 @@ params:
           enable: true
           content: I am working as a freelance software developer.
         content: >
-          I am working as a freelance software developer for at Vienna, AT.
+          I am working as a freelance software developer at Vienna, AT.
       - job: Software Developer
         company: Alpin GmbH Srl
         companyUrl: 'https://www.alpin.it/'
