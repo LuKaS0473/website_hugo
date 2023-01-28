@@ -24,6 +24,7 @@ Menus:
       url: /blogs
       weight: 1
 params:
+  baseURL: https://www.lukasweissenhorn.com
   title: Lukas Weissenhorn
   description: Personal page of Lukas Weissenhorn
   favicon: /fav.png
