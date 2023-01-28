@@ -1,4 +1,4 @@
-BaseURL: 'https://www.lukasweissenhorn.com'
+baseURL: https://www.lukasweissenhorn.com
 languageCode: en-US
 title: Lukas Weissenhorn
 theme: hugo-profile
