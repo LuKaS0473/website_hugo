@@ -12,6 +12,7 @@ outputs:
     - RSS
 Paginate: 3
 enableRobotsTXT: true
+disqusShortname: www-lukasweissenhorn-com
 markup:
   goldmark:
     renderer:
